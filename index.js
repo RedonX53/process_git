@@ -21,9 +21,3 @@ class CreateUser {
   const user1 = new CreateUser('Muhammad', 'Ahmad', 'mian.muhammad.ahmad.53@gmail.com', 24, "House # address address address address");
   
   
-  for(let key in user1){
-    if(user1.hasOwnProperty(key)){
-        console.log(key);
-    }
-  
-  }
