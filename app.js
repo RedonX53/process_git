@@ -5,3 +5,5 @@ function sampleFunction(){
 
 
 sampleFunction();
+
+console.log("Hello app.js");
